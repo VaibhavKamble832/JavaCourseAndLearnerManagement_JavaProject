@@ -6,6 +6,6 @@ This is the console-based project of core java. This project clear my core conce
 > After opening "Login_J_T.java" file, just run your project as Java Application.
 <h3>What's in this Project:-</h3>
 > In this project the user needs to select options as given, to proceed to the next step. <br>
-> In this project the student needs to Register first, and then student can login to the next step. <br>
+> In this project the student needs to Register first, and then student can login to the next step. <br><br>
 * Explore more in the Project. *
 
